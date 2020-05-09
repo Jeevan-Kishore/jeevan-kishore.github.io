@@ -1,0 +1,25 @@
+{
+  "name": "jeevan-kishore",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeevan-Kishore/jeevan-kishore.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "threejs",
+    "react",
+    "webdeveloper"
+  ],
+  "author": "Jeevan Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeevan-Kishore/jeevan-kishore.github.io/issues"
+  },
+  "homepage": "https://github.com/Jeevan-Kishore/jeevan-kishore.github.io#readme"
+}
